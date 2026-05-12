@@ -9,3 +9,5 @@
 .phpunit.result.cache
 Thumbs.db
 .DS_Store
+*
+!.gitignore
